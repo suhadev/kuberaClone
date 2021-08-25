@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+}
+.dashboard {
+  flex: 6;
+}
+.link{
+  text-decoration: none;
+  color: inherit;
+}
